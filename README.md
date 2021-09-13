@@ -1,10 +1,13 @@
-# TSF-GRIP-Basic_Banking_System
-The Sparks Foundation (GRIP) Internship Project : Basic Banking System - 
-A web application used to transfer money between multiple users.
+# BasicBankingSystem
+Sparks Foundation Web Development Internship Project : Basic Banking System website -  
+A web application used to tranfer money between multiple users and also record the banking transactions/ activities.
 
-Stack used - Front-end : HTML, CSS, Bootstrap & Javascript - 
-Back-end : PHP - 
-Database : MySQL
+## The website has the following specification -
+  Start with a dummy data for upto 10 customers.
+  Customers table with basic fields such as name, email, current balance etc.
+ Transaction status:
+ Transfer table/ Transfer History which records all the transactions
 
-Flow of the Website : Home Page > View all Customers > Select and View one Customer > Transfer Money > Select Customer to transfer to > View all Customers > View Transaction History.
+Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
+
 
