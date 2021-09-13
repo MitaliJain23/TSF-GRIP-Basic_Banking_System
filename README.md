@@ -6,5 +6,5 @@ Stack used - Front-end : HTML, CSS, Bootstrap & Javascript -
 Back-end : PHP - 
 Database : MySQL
 
-Flow of the Website : Home Page > View all Customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all customers > View Transaction History.
+Flow of the Website : Home Page > View all Customers > Select and View one Customer > Transfer Money > Select Customer to transfer to > View all Customers > View Transaction History.
 
